@@ -1,0 +1,6 @@
+[submodule "sources/github.com/linkerd/linkerd2"]
+	path = sources/github.com/linkerd/linkerd2
+	url = https://github.com/linkerd/linkerd2.git
+[submodule "sources/github.com/hashicorp/terraform"]
+	path = sources/github.com/hashicorp/terraform
+	url = https://github.com/hashicorp/terraform.git
